@@ -2,7 +2,7 @@
 
 **`Specialised in mechatronics, robotics and AI`**
 
-I'm a sixth form student that is passionate about robotics, mechatronics, embedded systems and AI. I'm currently improving my C++ programming skills along with improving my Arduino, CAD and electronics skills. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code and automation. I am on a path of building robotics projects to improve hands-on skills and to positively impacting any company I work for.
+I'm a college student in the UK that is passionate about robotics, mechatronics, embedded systems and AI. I'm currently improving my C++ programming skills along with improving my Arduino, CAD and electronics skills. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code and automation. I am on a path of building robotics projects to improve hands-on skills and to positively impacting any company I work for.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
