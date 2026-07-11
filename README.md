@@ -11,7 +11,7 @@ I'm a college student in the UK that is passionate about robotics, mechatronics,
   <a href="https://www.linkedin.com/in/davideze1/">
     <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=people"/></a>
   <a href="davideze7689@gmail.com">
-    <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/personal63952@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+    <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/davideze7689@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://github.com/david-eze?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/david-eze?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/david-eze?tab=followers">
@@ -30,11 +30,3 @@ I'm a college student in the UK that is passionate about robotics, mechatronics,
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  ‎ 
-
-
-#
-
-### 📊 Stats
-
-![David Eze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-eze&show_icons=true&theme=vision-friendly-dark)
-
