@@ -8,9 +8,9 @@ I'm a college student in the UK that is passionate about robotics, mechatronics,
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/davidkeze/">
+  <a href="https://www.linkedin.com/in/davideze1/">
     <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=people"/></a>
-  <a href="personal63952@gmail.com">
+  <a href="davideze7689@gmail.com">
     <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/personal63952@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://github.com/david-eze?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/david-eze?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
