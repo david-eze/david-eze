@@ -1,5 +1,5 @@
 # 👋 Hi, I'm David!
-• College student sharing about my journey and projects in engineering<br>• Studying Engineering at Warwick Trident<br>• Here to document my projects involving code & robotics <br>• Currently seeking a degree apprenticeship<br>
+• College student sharing about my journey and projects in engineering<br>• Studying Engineering at Warwick Trident<br>• Here to document my projects involving code & robotics <br>• Currently seeking a degree apprenticeship<br><br>Additional skills:<br>ROS, OpenCV, NVIDIA Isaac, Webots, CoppeliaSim, Gazebo, CAD
 
 
 ## 🌐 Socials:
