@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F77247,45:7C3AED,100:00C2FF&height=150&section=header&text=David%20Eze&fontSize=56&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="David Eze" />
 
-<a href="https://ayaanrustagi.vercel.app">
+<a href="https://github.com/david-eze?tab=repositories">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F77247&center=true&vCenter=true&width=620&lines=Engineering+Student+%40+Warwick+Trident;Robotics+%2B+Machine+Learning;Building+projects+that+solve+real-world+problems;Currently+seeking+a+Degree+Apprenticeship" alt="Typing SVG" />
 </a>
 
@@ -161,19 +161,19 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <h3>🎨 Frontend</h3>
+      <h3>⚙️ Robot Software &amp; Frameworks</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
+        <img src="https://skillicons.dev/icons?i=ros" alt="Software Stack" />
       </p>
-      <p>HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind • Bootstrap</p>
+      <p>ROS • ROS 2 • Nav2 • MoveIt • Gazebo • Foxglove Studio</p>
     </td>
 
    <td width="33%" valign="top" align="center">
-      <h3>⚙️ Backend &amp; APIs</h3>
+      <h3>🔌 Embedded Systems &amp; Hardware Interface</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,spring,php" alt="Backend Stack" />
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded Stack" />
       </p>
-      <p>Node.js • Express.js • Spring Boot • PHP • REST APIs • Authentication</p>
+      <p>Arduino • Raspberry Pi • ESP32 • CUDA • RTOS • CAN bus • I2C • SPI</p>
     </td>
 
    <td width="33%" valign="top" align="center">
@@ -187,19 +187,19 @@
 
   <tr>
     <td width="33%" valign="top" align="center">
-      <h3>🗄️ Databases &amp; Auth</h3>
+      <h3>🛠️ Simulation, CAD &amp; Tooling</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase" alt="Database Auth Stack" />
+        <img src="https://skillicons.dev/icons?i=matlab,docker,cmake" alt="Simulation Stack" />
       </p>
-      <p>MongoDB • PostgreSQL • MySQL • Firebase • Supabase</p>
+      <p>MATLAB • Docker • CMake • Webots • IsaacSim • SolidWorks • Autodesk Fusion 360</p>
     </td>
 
    <td width="33%" valign="top" align="center">
       <h3>🧠 AI / ML &amp; Data</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,sklearn,opencv" alt="AI ML Stack" />
+        <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,pytorch,tensorflow" alt="AI ML Stack" />
       </p>
-      <p>Scikit-learn • Streamlit • OpenCV • Pandas • NumPy • LLM Workflows</p>
+      <p>Scikit-learn • Streamlit • OpenCV • Pandas • NumPy • PyTorch • TensorFlow • SLAM • PCL • LLM Workflows</p>
       <p>
         <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
         <img src="https://img.shields.io/badge/MCP%20Routing-00C2FF?style=flat-square" />
@@ -209,9 +209,9 @@
    <td width="33%" valign="top" align="center">
       <h3>🚀 DevOps &amp; Tools</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vercel,netlify,vscode,figma" alt="DevOps Tools Stack" />
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode" alt="DevOps Tools Stack" />
       </p>
-      <p>Git • GitHub • GitLab • Docker • Linux • Vercel • Netlify • VS Code • Figma</p>
+      <p>Git • GitHub • GitLab • Docker • Linux • VS Code</p>
     </td>
   </tr>
 </table>
@@ -230,23 +230,23 @@
 <table>
   <tr>
     <td width="20%" align="center">
-      <h2>💼</h2>
-      <b>Engineering</b>
+      <h2>🤖</h2>
+      <b>Robotics Engineering</b>
     </td>
     <td width="80%">
-      <b>Software Engineering Intern — MangosOrange Services Pvt. Ltd.</b><br/>
-      <sub>Working on scalable web applications, authentication flows, UI/UX modules, testing, documentation, and production-ready features.</sub>
+      <b>Autonomous Mini-Sumo Robotics Project — Lead Designer</b><br/>
+      <sub>Engineered and wired an autonomous, sensor-driven tracking robot utilizing Arduino microcontrollers and ultrasonic distance sensors. Also programmed logic gates and PID loops to optimize real-time obstacle avoidance and competitive tracking efficiency.</sub>
     </td>
   </tr>
 
   <tr>
     <td width="20%" align="center">
-      <h2>🌐</h2>
-      <b>Founder</b>
+      <h2>⚙️</h2>
+      <b>Mechanical Design</b>
     </td>
     <td width="80%">
-      <b>Founder &amp; Community Lead — Idevion</b><br/>
-      <sub>Built a 5K+ developer-first ecosystem focused on guided growth, verified opportunities, mentorship, hackathons, and real-world exposure.</sub>
+      <b>Founder &amp; CAD &amp; Fusion 360 Prototyping — Individual Showcase</b><br/>
+      <sub>Designed a multi-axis robotic arm assembly from scratch using Autodesk Fusion 360, focusing on structural integrity and load distribution. Moreover, I generated full geometric dimensioning and tolerancing (GD&T) technical drawings optimized for 3D printing and CNC milling.</sub>
     </td>
   </tr>
 
@@ -256,8 +256,8 @@
       <b>Winner</b>
     </td>
     <td width="80%">
-      <b>Smart India Hackathon 2025 — Internal Winner</b><br/>
-      <sub>Built Margdarshan Kendra, an AI-powered smart education and career guidance platform.</sub>
+      <b>Secondary School STEM Capstone — 1st Place</b><br/>
+      <sub>Pioneered a functional, automated smart-sorting recycling bin mechanism powered by micro-servos and light-dependent resistors (LDRs). Won the top school honors for mechanical assembly, structural durability, and successful system integration under budget constraints.</sub>
     </td>
   </tr>
 
@@ -267,8 +267,8 @@
       <b>Leadership</b>
     </td>
     <td width="80%">
-      <b>Marketing Lead — TechEraa &amp; Tech4Hack</b><br/>
-      <sub>Contributed to developer events, outreach, community growth, collaborations, and technical program visibility.</sub>
+      <b>Workshop Team Lead</b><br/>
+      <sub>Appointed to oversee workshop safety, tool management, and precision manufacturing tasks for a team of 4 peers. I Contributed to high-quality bench fitting, manual lathe turning, and electronic soldering to meet strict engineering tolerances.</sub>
     </td>
   </tr>
 </table>
