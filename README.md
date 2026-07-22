@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=sauryakapoor&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/david-eze?label=Followers&style=for-the-badge&color=1f6feb&labelColor=30363d&logo=github&logoColor=58a6ff" alt="Followers"/>
 <a href="Still working on it!(link)"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/david-eze/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/davideze1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:davideze7689@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -281,7 +281,7 @@
 <div align="center">
 
 <a href="mailto:davideze7689@gmail.com"><img src="https://img.shields.io/badge/davideze7689%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/david-eze/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/davideze1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="Coming soon"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <p align="center">
