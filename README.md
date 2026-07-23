@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sauryakapoor&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/david-eze?label=Followers&style=for-the-badge&color=1f6feb&labelColor=30363d&logo=github&logoColor=58a6ff" alt="Followers"/>
-<a href="Still working on it!(link)"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://drive.google.com/file/d/1hq7deqiIHrgK-SCsI4_0b3kglver1GDP/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/davideze1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:davideze7689@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -273,7 +273,7 @@
 
 <a href="mailto:davideze7689@gmail.com"><img src="https://img.shields.io/badge/davideze7689%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/davideze1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="Coming soon"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://drive.google.com/file/d/1hq7deqiIHrgK-SCsI4_0b3kglver1GDP/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2700&pause=750&color=F77247&center=true&vCenter=true&width=950&lines=Developing+robots.+Expanding+capabilities.+Learning+every+day.;From+code+to+impact+%E2%9A%A1;Engineering+with+clarity%2C+creativity%2C+and+purpose." alt="Footer Typing SVG" />
